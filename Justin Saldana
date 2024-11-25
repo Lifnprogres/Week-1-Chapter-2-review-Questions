@@ -1,0 +1,5 @@
+Function: A reusable set of instructions. Example: def greet(): print("Hello!")
+Class: A template for creating objects. Example: class Person: def say_hello(self): print("Hi!")
+Object: An instance of a class. Example: person1 = Person()
+OOP: Programming using classes and objects to model real things.
+Functional Programming: Programming using functions, especially pure ones that don't affect other parts of the program.
